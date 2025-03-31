@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Bùi Huy Hoàng]
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer focused on modern front-end with React and scalable back-end with Node.js.
 
@@ -46,13 +46,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer focused on m
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
 ## 🌱 Currently Learning
 
 - NestJS & Clean Architecture
@@ -72,5 +65,5 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer focused on m
 
 ## 📫 Contact
 
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [your-website.com](https://your-website.com)
+- 📧 Email: buihuyhoang9a3@gmail.com
+- 🌐 Portfolio: [your-website.com]([https://your-website.com](https://buihuyhoang.netlify.app/)
